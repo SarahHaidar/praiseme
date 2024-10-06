@@ -1,0 +1,18 @@
+Package: praiseme
+Title: Deliver Praise to Someone
+Version: 0.0.0.9000
+Authors@R: 
+    person(first = "Sarah",
+            last = "Haidar",
+            email = "sarah.haidar2@students.mq.edu.au",
+            role = c("aut", "cre"))
+Description: We all deserve a little bit of encouragement and praise sometimes ><.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    glue
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
